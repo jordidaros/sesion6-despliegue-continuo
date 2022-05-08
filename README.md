@@ -1,1 +1,1 @@
-https://actionsjordidaros.azurewebsites.net/
+https://actionsjordidarosv2.azurewebsites.net/
